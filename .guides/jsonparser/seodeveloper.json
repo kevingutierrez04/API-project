@@ -1,0 +1,14 @@
+{
+    "name": "jane doe",
+    "salary": 90000,
+    "skills": [
+        "Data Science",
+        "Machine Learning",
+        "Deep Learning"
+    ],
+    "email": "JaneDoe@seo-usa.org",
+    "projects": [
+        "Web APIs",
+        "JSON Parsing"
+    ]
+}

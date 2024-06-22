@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Philip",
+        "last": "Patel"
+      },
+      "location": {
+        "street": {
+          "number": 6163,
+          "name": "Duke St"
+        },
+        "city": "Tecumseh",
+        "state": "Manitoba",
+        "country": "Canada",
+        "postcode": "N7S 8K5",
+        "coordinates": {
+          "latitude": "-66.4595",
+          "longitude": "-55.7951"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      },
+      "email": "philip.patel@example.com",
+      "login": {
+        "uuid": "cb796e2a-ed36-4198-a286-269b81d63532",
+        "username": "orangekoala264",
+        "password": "bluedog",
+        "salt": "52nAgKGO",
+        "md5": "8ceb5d6b3169c10ab051ed671f59b5e7",
+        "sha1": "d8e9da9d6919b8c56328632fc1e476cd8fe0d4ff",
+        "sha256": "03ee61cf11c5b585b970dd5deb51d1188f3bd1c8e14226d72a8ce14061d8749f"
+      },
+      "dob": {
+        "date": "1966-12-26T02:50:29.295Z",
+        "age": 56
+      },
+      "registered": {
+        "date": "2013-02-19T12:34:39.527Z",
+        "age": 9
+      },
+      "phone": "508-423-1126",
+      "cell": "131-394-3382",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/69.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+      },
+      "nat": "CA"
+    }
+  ],
+  "info": {
+    "seed": "c10082d811867c44",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
